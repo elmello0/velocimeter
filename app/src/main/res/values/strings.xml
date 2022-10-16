@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">velocimeter</string>
+    <string name="IB">ImageButton</string>
+</resources>
